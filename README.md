@@ -5,4 +5,5 @@ For usage, please pass `--help` to the program, or check the [wiki](https://gith
 
 ## Building
 Please make sure you have Xcode installed  
-Just run `swift build` and it will be in .build/debug/audioctl
+Just run `swift build` and it will be in .build/debug/audioctl  
+Or run `./build build` if you have Python3, and to install `./build install`
